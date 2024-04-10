@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rupak Raj
 - 👀 I’m interested in Web Development Technologies
 - 🌱 I’m currently learning ReactJS & PWA
-- 💞️ I’m looking to collaborate on Magento 2
+- 💞️ I’m looking to collaborate on Adobe Commerce/Magento Open Source
 - 📫 Reach me on my email id: raj.prince587@gmail.com
 
 <!---
