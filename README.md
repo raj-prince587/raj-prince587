@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rupak Raj
+- 👋 Hello
 - 👀 I’m interested in Web Development Technologies
 - 🌱 I’m currently learning ReactJS & PWA
 - 💞️ I’m looking to collaborate on Adobe Commerce/Magento Open Source
